@@ -1,7 +1,7 @@
 # Burp-Attack-Walkthough
 Homework assignment for Cybersecurity Management.
 
-#Attack and Tool Walk Through Using Burp Suite and Web Security Academy
+# Attack and Tool Walk Through Using Burp Suite and Web Security Academy
 
 By:
 Melanie Guadalupe Najera,
@@ -11,7 +11,7 @@ Cory Smith.
 #
 In today's walkthrough, we will navigate to the Port Swigger Web Security Academy hacking labs to conduct a username enumeration and password brute-force attack. We will use the tool named Burp Suite Community Edition to conduct the attack. This is an experience provided to individuals entirely free of charge.
 
-#Pre-Requirements:
+# Pre-Requirements:
 There are a few tasks that you will need to do before getting started on hacking the website. 
 1.	Create a free Web Security Academy account on the PortSwigger website.
 a.	Use this link: https://portswigger.net/web-security
@@ -24,7 +24,7 @@ b.	Foxy Proxy: https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard
 a.	Use this link: https://null-byte.wonderhowto.com/how-to/use-burp-foxyproxy-easily-switch-between-proxy-settings-0196630/
 5.	You are now ready to hack! So, turn off the lights, grab a hoody, and let's get started!
 
-#Getting Started:
+# Getting Started:
 
 Once you have everything installed, fire up Burp Suite. 
 
@@ -34,7 +34,7 @@ The next user interface you will see is the user configuration settings. Here yo
 
 <img src="1_start_up.gif">
 
-#Basic Burp Overview:
+# Basic Burp Overview:
 
 There are 13 tabs that do specific functions:
 
@@ -79,7 +79,7 @@ There are 13 tabs that do specific functions:
 
 <img src="2_burp_#2.gif">
 
-#Hacking Demo:
+# Hacking Demo:
 
 **Part One: The Set-Up:**
 
