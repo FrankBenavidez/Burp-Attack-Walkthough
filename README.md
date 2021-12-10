@@ -14,14 +14,23 @@ In today's walkthrough, we will navigate to the Port Swigger Web Security Academ
 # Pre-Requirements:
 There are a few tasks that you will need to do before getting started on hacking the website. 
 1.	Create a free Web Security Academy account on the PortSwigger website.
+
 a.	Use this link: https://portswigger.net/web-security
+
 2.	Download and install the free version of Burp Suite. 
+
 a.	Use this link: https://portswigger.net/burp/communitydownload
+
 3.	Install Firefox and the foxy proxy extension.
+
 a.	Firefox: https://www.mozilla.org/en-US/firefox/new/
+
 b.	Foxy Proxy: https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/
+
 4.	Set up Burp Suite to collect traffic. 
+
 a.	Use this link: https://null-byte.wonderhowto.com/how-to/use-burp-foxyproxy-easily-switch-between-proxy-settings-0196630/
+
 5.	You are now ready to hack! So, turn off the lights, grab a hoody, and let's get started!
 
 # Getting Started:
